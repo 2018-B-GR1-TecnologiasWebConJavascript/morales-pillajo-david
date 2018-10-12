@@ -1,0 +1,9 @@
+{
+  "nombre": "david",
+  "edad":23,
+  "casado": null,
+  "tieneHijos": false,
+  "mascotas": {
+    "nombre": "david"
+  }
+}

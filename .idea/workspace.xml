@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="421e209d-9f47-49fe-8de9-7227c1812f87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/ejemplo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-JavaScript/3-funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/3-funciones.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,79 +24,58 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="4" />
-          <entry key="json" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="js" value="11" />
+          <entry key="json" value="3" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="4" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="11" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="2477" />
+          <entry key="gitignore" value="12" />
+          <entry key="js" value="3368" />
           <entry key="json" value="116" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="116" />
-          <entry key="JavaScript" value="2477" />
+          <entry key="JavaScript" value="3368" />
+          <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/1-variables.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/2-arreglos.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/3-funciones.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/4-operadores.js">
+        <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="465">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/david.json">
+        <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/ejemplo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -121,6 +100,16 @@
         <option value="$PROJECT_DIR$/01-JavaScript/2-arreglos.js" />
         <option value="$PROJECT_DIR$/01-JavaScript/3-funciones.js" />
         <option value="$PROJECT_DIR$/01-JavaScript/4-operadores.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/versiob.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/numero-procesadores.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/calculadorea-simple.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version-node/version-node.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/app.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/02-fs/app.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/.gitignore" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/node_modules/ejemplo.txt" />
+        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/app.js" />
       </list>
     </option>
   </component>
@@ -130,10 +119,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1301" />
+    <option name="x" value="968" />
     <option name="y" value="23" />
-    <option name="width" value="1014" />
+    <option name="width" value="1240" />
     <option name="height" value="1336" />
   </component>
   <component name="ProjectView">
@@ -154,6 +151,19 @@
               <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
               <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="05-Callbacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="05-Callbacks" type="462c0819:PsiDirectoryNode" />
+              <item name="02-fs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,6 +173,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs" />
+      <recent name="$PROJECT_DIR$/01-JavaScript/05-Callbacks" />
+      <recent name="$PROJECT_DIR$/01-JavaScript" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,12 +193,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration name="1-variables.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-JavaScript/1-variables.js" working-dir="$PROJECT_DIR$/01-JavaScript">
       <method v="2" />
     </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/app.js" working-dir="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.1-variables.js" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.1-variables.js" />
       </list>
     </recent_temporary>
@@ -199,29 +224,30 @@
       <workItem from="1539380779875" duration="3800000" />
       <workItem from="1539637604096" duration="4832000" />
       <workItem from="1540242212622" duration="4613000" />
+      <workItem from="1540588108868" duration="4528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13245000" />
+    <option name="totallyTimeSpent" value="17773000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1301" y="23" width="1014" height="1336" extended-state="0" />
+    <frame x="968" y="23" width="1240" height="1336" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4982036" visible="true" weight="0.30110776" />
-      <window_info id="Structure" order="1" sideWeight="0.5017964" side_tool="true" visible="true" weight="0.30110776" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497006" visible="true" weight="0.24528302" />
+      <window_info id="Structure" order="1" sideWeight="0.502994" side_tool="true" visible="true" weight="0.24528302" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32930756" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32877815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32877815" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32877815" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -235,17 +261,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-JavaScript/1-variables.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-JavaScript/2-arreglos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/3-funciones.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
@@ -256,17 +282,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-JavaScript/3-funciones.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-JavaScript/4-operadores.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/1-variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/numero-procesadores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/calculadorea-simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version-node/version-node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/ejemplo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>

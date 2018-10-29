@@ -3,6 +3,8 @@
 
 const fs = require('fs');
 const nombre='8-texto-txt';
+const nombre_2='06-texto-txt';
+
 
 const nuevaPromesa = (nombreArchivo)=>{
     return new Promise(
@@ -67,3 +69,57 @@ nuevaPromesa(nombre)
         }
 );
 
+
+const promesaAppend =(nombreArchivo, contenido )=>{
+    fs.readFile(
+        nombreArchivo,'utf-8',
+        (error,  contenidoLLeidoDelArchivo)=>{
+            if(error){
+                fs.writeFile(
+                    nombreArchivo,
+                    contenido,
+                    (err)=>{
+                        if(err){
+                            callback(undefined,err);
+                        }else{
+                            callback(contenido);
+                        }
+                    }
+
+                );
+            }else{
+                fs.writeFile(
+                    nombreArchivo,
+                    contenidoLeidoDelArchivo + contenido,
+                    (err)=>{
+                        if(err){
+                            callback(undefined,err);
+                        }else{
+                            callback(contenidoLeidoDelArchivo+contenido);
+                        }
+                    }
+                );
+
+            }
+        }
+    )
+}
+
+function appendFile(nombreArchivo, contenido) {
+    nuevaPromesa("07-ejemplo.txt")
+        .then(contenido => {
+            console.log(contenido);
+            return nuevaPromesaEscritura(
+                "07-ejemplo2.txt",
+                contenido + "Adios amigos"
+            );
+        })
+        .then(contenidoArchivoEscrito => {
+            console.log(contenidoArchivoEscrito);
+        })
+        .catch(error => {
+            console.log("Catch", error);
+        });
+}
+
+appendFile("06-texto.txt", "\nHola amigos");

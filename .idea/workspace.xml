@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="421e209d-9f47-49fe-8de9-7227c1812f87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/06-callback-propio.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/06-callback-propio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/07-promesas.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/07-promesas.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,7 +48,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="12" />
-          <entry key="js" value="4574" />
+          <entry key="js" value="4854" />
           <entry key="json" value="116" />
           <entry key="txt" value="13" />
         </counts>
@@ -55,7 +56,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="116" />
-          <entry key="JavaScript" value="4574" />
+          <entry key="JavaScript" value="4854" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-JavaScript/06-callback-propio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+            <state relative-caret-position="87">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -84,8 +85,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-JavaScript/07-promesas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="632">
+              <caret line="107" column="22" lean-forward="true" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+              <folding>
+                <element signature="e#91#522#0" />
+                <element signature="e#586#1034#0" />
+                <element signature="e#119#143#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -253,15 +259,16 @@
       <workItem from="1539637604096" duration="4832000" />
       <workItem from="1540242212622" duration="4613000" />
       <workItem from="1540588108868" duration="4670000" />
-      <workItem from="1540846962053" duration="3876000" />
+      <workItem from="1540846962053" duration="5101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21791000" />
+    <option name="totallyTimeSpent" value="23016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="844" y="23" width="1037" height="1336" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4958084" visible="true" weight="0.21850394" />
       <window_info id="Structure" order="1" sideWeight="0.50419164" side_tool="true" visible="true" weight="0.21850394" />
@@ -287,6 +294,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01-JavaScript/07-promesas.js</url>
+          <line>56</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01-JavaScript/2-arreglos.js">
@@ -392,20 +411,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-JavaScript/06-callback-propio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-JavaScript/06-texto-txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/06-callback-propio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01-JavaScript/07-promesas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="632">
+          <caret line="107" column="22" lean-forward="true" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
+          <folding>
+            <element signature="e#91#522#0" />
+            <element signature="e#586#1034#0" />
+            <element signature="e#119#143#0" />
+          </folding>
         </state>
       </provider>
     </entry>

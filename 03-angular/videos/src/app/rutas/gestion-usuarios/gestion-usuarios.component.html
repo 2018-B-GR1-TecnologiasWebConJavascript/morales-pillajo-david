@@ -1,0 +1,20 @@
+<p>
+  gestion-usuarios works!
+</p>
+
+
+<h3>Gestión de usuarios</h3>
+<table class="table">
+  <tr>
+    <th>Identificcador</th>
+    <th>Nombre</th>
+    <th>Acción</th>
+  </tr>
+  <tr *ngFor="let usuario of usuarios">
+    <td>{{usuario.identificador}}</td>
+    <td>{{usuario.nombre}}</td>
+    <td>
+      <button (click)="imprimir(usuario)">Eliminar {{hola()}}</button>
+    </td>
+  </tr>
+</table>

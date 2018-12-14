@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import * as path from "path";
 import {RutaInicioComponent} from "./rutas/ruta-inicio/ruta-inicio.component";
 import {MenuComponent} from "./rutas/menu/menu.component";
 import {LoginComponent} from "./rutas/login/login.component";
@@ -8,6 +7,7 @@ import {PerfilComponent} from "./rutas/perfil/perfil.component";
 import {NotFoundComponent} from "./rutas/not-found/not-found.component";
 import {GestionUsuariosComponent} from "./rutas/gestion-usuarios/gestion-usuarios.component";
 import {GestionProductosComponent} from "./rutas/gestion-productos/gestion-productos.component";
+import {VerDetalleUsuarioComponent} from "./rutas/ver-detalle-usuario/ver-detalle-usuario.component";
 
 const routes: Routes = [
   {
@@ -35,6 +35,10 @@ const routes: Routes = [
       {
         path:'gestion-productos',
         component:GestionProductosComponent
+      },
+      {
+        path:'ver-usuario/:idUsuario',//menu/ver-usuario
+        component:VerDetalleUsuarioComponent
       },
       {
         path:'**',

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {Usuario, UsuarioServiceService} from "../../servicios/usuario-service.service";
 
 @Component({
   selector: 'app-gestion-usuarios',
@@ -7,38 +8,26 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GestionUsuariosComponent implements OnInit {
 
-  usuarios: Usuario[]=[
-    {
-      identificador:1,
-      nombre:"david"
-    },
-    {
-      identificador:2,
-      nombre:"morales"
-    }
-    ]
-  constructor() { }
+  usuarios=[];
+
+  //inyeccion de dependencias
+  constructor(
+    private readonly _usuarioService: UsuarioServiceService
+  ) {
+
+  }
 
   ngOnInit() {
+
+    this.usuarios=this._usuarioService.usuarios;
   }
 
-  hola(){
-    return 'Hola';
+  eliminar (usuario:Usuario){
+    this._usuarioService.eliminar(usuario.identificador);
   }
 
-  imprimir(usuario:Usuario){
-    console.log(usuario)
-    const indiceUsuarioAEliminar=this.usuarios
-      .findIndex((usuario)=>{
-        return usuario.identificador==usuario.identificador
-      })
 
-    this.usuarios.splice(indiceUsuarioAEliminar,1)
-  }
+
 
 }
 
-export interface Usuario {
-  identificador?:number,
-  nombre?:string
-}

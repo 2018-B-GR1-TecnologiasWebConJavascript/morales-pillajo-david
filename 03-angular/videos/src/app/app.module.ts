@@ -10,6 +10,8 @@ import { MenuComponent } from './rutas/menu/menu.component';
 import { NotFoundComponent } from './rutas/not-found/not-found.component';
 import { GestionUsuariosComponent } from './rutas/gestion-usuarios/gestion-usuarios.component';
 import { GestionProductosComponent } from './rutas/gestion-productos/gestion-productos.component';
+import {UsuarioServiceService} from "./servicios/usuario-service.service";
+import { VerDetalleUsuarioComponent } from './rutas/ver-detalle-usuario/ver-detalle-usuario.component';
 
 @NgModule({
   declarations: [
@@ -20,13 +22,16 @@ import { GestionProductosComponent } from './rutas/gestion-productos/gestion-pro
     MenuComponent,
     NotFoundComponent,
     GestionUsuariosComponent,
-    GestionProductosComponent
+    GestionProductosComponent,
+    VerDetalleUsuarioComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    UsuarioServiceService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

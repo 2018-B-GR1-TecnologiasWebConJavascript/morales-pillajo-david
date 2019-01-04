@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="421e209d-9f47-49fe-8de9-7227c1812f87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/datastores.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/datastores.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/views/layouts/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/views/layouts/layout.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,15 +23,16 @@
     <session id="898154589">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,7 +40,7 @@
           <entry key="06-texto-txt" value="1" />
           <entry key="gitignore" value="8" />
           <entry key="html" value="7" />
-          <entry key="js" value="16" />
+          <entry key="js" value="19" />
           <entry key="json" value="11" />
           <entry key="md" value="1" />
           <entry key="scss" value="2" />
@@ -52,7 +52,7 @@
         <counts>
           <entry key="HTML" value="7" />
           <entry key="JSON" value="9" />
-          <entry key="JavaScript" value="16" />
+          <entry key="JavaScript" value="19" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="SCSS" value="2" />
           <entry key="TypeScript" value="13" />
@@ -63,7 +63,7 @@
         <counts>
           <entry key="gitignore" value="49" />
           <entry key="html" value="729" />
-          <entry key="js" value="4854" />
+          <entry key="js" value="4916" />
           <entry key="json" value="863" />
           <entry key="ts" value="3461" />
           <entry key="txt" value="13" />
@@ -73,14 +73,14 @@
         <counts>
           <entry key="HTML" value="729" />
           <entry key="JSON" value="863" />
-          <entry key="JavaScript" value="4854" />
+          <entry key="JavaScript" value="4916" />
           <entry key="PLAIN_TEXT" value="62" />
           <entry key="TypeScript" value="3461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="Angular2LanguageService" value="4" />
+          <entry key="Angular2LanguageService" value="5" />
           <entry key="TypeScriptServerServiceImpl" value="3" />
         </counts>
       </usages-collector>
@@ -89,82 +89,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts">
+        <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-                <element signature="e#958#1181#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.html">
+        <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/datastores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/usuario-service.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="n#!!block;n#crear#0;n#UsuarioServiceService#0" />
-                <element signature="n#!!block;n#eliminar#0;n#UsuarioServiceService#0" />
-                <element signature="n#!!block;n#actualizar#0;n#UsuarioServiceService#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="593">
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -219,6 +156,8 @@
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/servicios/usuario-service.service.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.html" />
+        <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js" />
+        <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/datastores.js" />
       </list>
     </option>
   </component>
@@ -255,7 +194,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="992" />
+    <option name="x" value="910" />
     <option name="y" value="23" />
     <option name="width" value="1393" />
     <option name="height" value="1336" />
@@ -276,6 +215,27 @@
               <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
               <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
               <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="04 back-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="04 back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="video-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="01-JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="04 back-end" type="462c0819:PsiDirectoryNode" />
+              <item name="video-backend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,14 +314,15 @@
       <workItem from="1542056711419" duration="3607000" />
       <workItem from="1542402644337" duration="2625000" />
       <workItem from="1544821946949" duration="5800000" />
+      <workItem from="1545081238126" duration="4685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52380000" />
+    <option name="totallyTimeSpent" value="57065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="992" y="23" width="1393" height="1336" extended-state="0" />
+    <frame x="910" y="23" width="1393" height="1336" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4958084" visible="true" weight="0.21793003" />
       <window_info id="Structure" order="1" sideWeight="0.50419164" side_tool="true" weight="0.24528302" />
@@ -638,7 +599,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="225">
           <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
@@ -649,10 +610,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="450">
           <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/usuario-service.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="n#!!block;n#crear#0;n#UsuarioServiceService#0" />
+            <element signature="n#!!block;n#eliminar#0;n#UsuarioServiceService#0" />
+            <element signature="n#!!block;n#actualizar#0;n#UsuarioServiceService#0" />
           </folding>
         </state>
       </provider>
@@ -674,32 +657,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/usuario-service.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="n#!!block;n#crear#0;n#UsuarioServiceService#0" />
-            <element signature="n#!!block;n#eliminar#0;n#UsuarioServiceService#0" />
-            <element signature="n#!!block;n#actualizar#0;n#UsuarioServiceService#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ver-detalle-usuario/ver-detalle-usuario.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Raza.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/datastores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
         </state>
       </provider>
     </entry>

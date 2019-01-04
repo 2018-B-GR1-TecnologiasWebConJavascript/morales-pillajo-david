@@ -21,6 +21,7 @@ module.exports.routes = {
 
   '/': { view: 'pages/homepage' },
 
+  '/POST /Raza/buscarPorNombre' : 'RazaController.buscarPorNombre'
 
   /***************************************************************************
   *                                                                          *

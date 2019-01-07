@@ -12,6 +12,9 @@ import { GestionUsuariosComponent } from './rutas/gestion-usuarios/gestion-usuar
 import { GestionProductosComponent } from './rutas/gestion-productos/gestion-productos.component';
 import {UsuarioServiceService} from "./servicios/usuario-service.service";
 import { VerDetalleUsuarioComponent } from './rutas/ver-detalle-usuario/ver-detalle-usuario.component';
+import {HttpClientModule} from "@angular/common/http";
+import {RazaRestService} from "./servicios/rest/raza-rest.service";
+import { CrearRazaComponent } from './rutas/crear-raza/crear-raza.component';
 
 @NgModule({
   declarations: [
@@ -23,14 +26,17 @@ import { VerDetalleUsuarioComponent } from './rutas/ver-detalle-usuario/ver-deta
     NotFoundComponent,
     GestionUsuariosComponent,
     GestionProductosComponent,
-    VerDetalleUsuarioComponent
+    VerDetalleUsuarioComponent,
+    CrearRazaComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [
-    UsuarioServiceService
+    UsuarioServiceService,
+    RazaRestService
   ],
   bootstrap: [AppComponent]
 })

@@ -20,7 +20,7 @@ module.exports = {
       nombre:{'startsWith':parametros.nombre}
     });
 
-    return response.ok(nombreCac);
+    return res.ok(nombreCac);
   }
 };
 

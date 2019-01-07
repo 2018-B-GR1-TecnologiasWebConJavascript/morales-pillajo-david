@@ -3,6 +3,12 @@
 </p>
 
 
+<a routerLink="/menu/crear-raza">
+  <button>
+    Crear raza
+  </button>
+</a>
+
 <h3>Gestión de usuarios</h3>
 <table class="table">
   <tr>
@@ -11,7 +17,7 @@
     <th>Acción</th>
   </tr>
   <tr *ngFor="let usuario of usuarios">
-    <td>{{usuario.identificador}}</td>
+    <td>{{usuario.id}}</td>
     <td>{{usuario.nombre}}</td>
     <td>
       <button (click)="eliminar(usuario)">

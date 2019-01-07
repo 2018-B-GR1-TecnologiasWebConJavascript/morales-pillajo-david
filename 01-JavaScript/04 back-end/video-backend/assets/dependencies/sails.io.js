@@ -48,7 +48,7 @@ return new(b[["Active"].concat("Object").join("X")])("Microsoft.XMLHTTP")}catch(
  * ------------------------------------------------------------------------
  *
  * This file allows you to send and receive socket.io messages to & from Sails
- * by simulating a REST client interface on top of socket.io. It models its API
+ * by simulating a rest client interface on top of socket.io. It models its API
  * after the $.ajax pattern from jQuery you might already be familiar with.
  *
  * So if you're switching from using AJAX to sockets, instead of:

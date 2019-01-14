@@ -9,6 +9,7 @@ import {GestionUsuariosComponent} from "./rutas/gestion-usuarios/gestion-usuario
 import {GestionProductosComponent} from "./rutas/gestion-productos/gestion-productos.component";
 import {VerDetalleUsuarioComponent} from "./rutas/ver-detalle-usuario/ver-detalle-usuario.component";
 import {CrearRazaComponent} from "./rutas/crear-raza/crear-raza.component";
+import {ActualizarRazaComponent} from "./rutas/actualizar-raza/actualizar-raza.component";
 
 const routes: Routes = [
   {
@@ -36,6 +37,10 @@ const routes: Routes = [
       {
         path:'crear-raza',
         component: CrearRazaComponent
+      },
+      {
+        path: 'actualizar-raza/:idRaza',
+        component: ActualizarRazaComponent
       },
       {
         path:'gestion-productos',

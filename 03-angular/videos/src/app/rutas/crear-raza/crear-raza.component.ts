@@ -25,21 +25,37 @@ export class CrearRazaComponent implements OnInit {
   crearRaza(formulario: NgForm){
     console.log(formulario)
 
-    const crearRaza$ = this._razaRestService
-      .create(this.raza.nombre)
+    //validar
 
-    crearRaza$
-      .subscribe(
-        (raza:Raza)=>{
-          console.log('Raza');
-          alert(`Raza creada: ${raza.nombre}`)
-        },
-      (error)=>{
-          console.error('Error: ',error)
-      }
-      )
+    if(this.nombreContieneA(this.raza.nombre.toString())){
+
+      const crearRaza$ = this._razaRestService
+        .create(this.raza.nombre)
+
+      crearRaza$
+        .subscribe(
+          (raza:Raza)=>{
+            console.log('Raza');
+            alert(`Raza creada: ${raza.nombre}`)
+          },
+          (error)=>{
+            console.error('Error: ',error)
+          }
+        )
+    }else {
+      alert('ERROR, no contiene una letra a')
+    }
+
+
+
+
   }
 
+
+  nombreContieneA(nombre: string):boolean{
+
+    return nombre.toLowerCase().includes('a')
+  }
 }
 
 interface RazaEjemplo{

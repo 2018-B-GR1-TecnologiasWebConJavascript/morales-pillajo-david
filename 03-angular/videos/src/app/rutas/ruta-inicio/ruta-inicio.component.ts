@@ -7,9 +7,38 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RutaInicioComponent implements OnInit {
 
+  imagenes: Imagenes[] = [
+    {
+      nombreImagen:'01.jpg',
+      nombrePelicula:'EndGame',
+      anio:2019
+    },
+    {
+      nombreImagen:'02.jpg',
+      nombrePelicula:'IronMan',
+      anio:2008
+    },
+    {
+      nombreImagen:'03.png',
+      nombrePelicula:'CaptainMarvel',
+      anio:2019
+    },
+    {
+      nombreImagen:'04.jpeg',
+      nombrePelicula:'Spiderman',
+      anio:2019
+    }
+  ];
+
   constructor() { }
 
   ngOnInit() {
   }
 
+}
+
+export interface Imagenes{
+  nombreImagen: string;
+  nombrePelicula: string;
+  anio: number;
 }

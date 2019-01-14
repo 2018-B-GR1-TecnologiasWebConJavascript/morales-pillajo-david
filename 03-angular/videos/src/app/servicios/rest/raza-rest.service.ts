@@ -43,4 +43,19 @@ export class RazaRestService{
       .pipe(map(r=><Raza>r));
   }
 
+  findOneById(id:number | string):Observable<Raza>{
+      const url= environment.url+this.nombreModelo+'/'+id;
+    return this._httpClient
+      .get(url)
+      .pipe(map(r=><Raza>r));
+
+  }
+
+  updateOneById(raza:Raza){
+    const url= environment.url+this.nombreModelo+'/'+raza.id;
+
+    return this._httpClient
+      .put(url,raza)
+      .pipe(map(r=><Raza>r))
+  }
 }

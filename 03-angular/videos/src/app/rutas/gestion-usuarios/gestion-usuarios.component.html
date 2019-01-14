@@ -24,9 +24,14 @@
         Eliminar
       </button>
       <!--property bidding-->
-      <a [routerLink]="['/menu','ver-usuario',usuario.identificador]">
+      <a [routerLink]="['/menu','ver-usuario',usuario.id]">
         <button>
           Ver
+        </button>
+      </a>
+      <a [routerLink]="['/menu','actualizar-raza',usuario.id]">
+        <button>
+          Actualizar
         </button>
       </a>
     </td>

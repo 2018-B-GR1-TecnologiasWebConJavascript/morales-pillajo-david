@@ -7,18 +7,20 @@
     <list default="true" id="421e209d-9f47-49fe-8de9-7227c1812f87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Raza.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Raza.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/actualizar-raza/actualizar-raza.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/actualizar-raza/actualizar-raza.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/actualizar-raza/actualizar-raza.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/actualizar-raza/actualizar-raza.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-inicio/ruta-inicio.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-inicio/ruta-inicio.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-inicio/ruta-inicio.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-inicio/ruta-inicio.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-angular/videos/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/03-angular/videos/src/styles.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,47 +56,49 @@
         <counts>
           <entry key="06-texto-txt" value="1" />
           <entry key="gitignore" value="8" />
-          <entry key="html" value="18" />
+          <entry key="html" value="31" />
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="31" />
-          <entry key="json" value="12" />
+          <entry key="js" value="32" />
+          <entry key="json" value="14" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
-          <entry key="scss" value="2" />
-          <entry key="ts" value="33" />
+          <entry key="scss" value="3" />
+          <entry key="ts" value="54" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="18" />
+          <entry key="HTML" value="31" />
           <entry key="Image" value="6" />
-          <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="31" />
+          <entry key="JSON" value="12" />
+          <entry key="JavaScript" value="32" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="SCSS" value="2" />
-          <entry key="TypeScript" value="33" />
+          <entry key="SCSS" value="3" />
+          <entry key="TypeScript" value="54" />
           <entry key="tsconfig" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="49" />
-          <entry key="html" value="2764" />
-          <entry key="js" value="6244" />
-          <entry key="json" value="863" />
-          <entry key="ts" value="6915" />
+          <entry key="html" value="2945" />
+          <entry key="js" value="6277" />
+          <entry key="json" value="867" />
+          <entry key="scss" value="1" />
+          <entry key="ts" value="7639" />
           <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2761" />
-          <entry key="JSON" value="863" />
-          <entry key="JavaScript" value="6247" />
+          <entry key="HTML" value="2942" />
+          <entry key="JSON" value="867" />
+          <entry key="JavaScript" value="6280" />
           <entry key="PLAIN_TEXT" value="62" />
-          <entry key="TypeScript" value="6915" />
+          <entry key="SCSS" value="1" />
+          <entry key="TypeScript" value="7639" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -107,20 +111,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="623">
+              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts">
+        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="213">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -128,59 +135,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts">
+        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+            <state relative-caret-position="141">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="n#table#0;n#!!top" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -201,11 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version.js" />
-        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/numero-procesadores.js" />
-        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/calculadorea-simple.js" />
-        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/version-node/version-node.js" />
-        <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/app.js" />
         <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/01-modules/02-fs/app.js" />
         <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/node_modules/ejemplo.txt" />
         <option value="$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/app.js" />
@@ -230,12 +193,8 @@
         <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Mascotas.js" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/environments/environment.ts" />
         <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/security.js" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/interfaces/usuario.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/interfaces/raza.ts" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.html" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/imagen-pelicula/imagen-pelicula.component.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-inicio/ruta-inicio.component.html" />
@@ -244,14 +203,23 @@
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/actualizar-raza/actualizar-raza.component.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.html" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.html" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts" />
         <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Raza.js" />
-        <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js" />
-        <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts" />
         <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/config/routes.js" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.ts" />
         <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/crear-raza/crear-raza.component.ts" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.html" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-login-component/ruta-login-component.component.html" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/auth.service.ts" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/styles.scss" />
+        <option value="$PROJECT_DIR$/03-angular/videos/angular.json" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html" />
+        <option value="$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -305,6 +273,70 @@
             <path>
               <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
               <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Componentes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Componentes" type="462c0819:PsiDirectoryNode" />
+              <item name="formulario-raza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="morales-pillajo-david" type="b2602c69:ProjectViewProjectNode" />
+              <item name="morales-pillajo-david" type="462c0819:PsiDirectoryNode" />
+              <item name="03-angular" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="rutas" type="462c0819:PsiDirectoryNode" />
+              <item name="gestion-usuarios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,17 +420,17 @@
       <workItem from="1547240842936" duration="5519000" />
       <workItem from="1547499977876" duration="6380000" />
       <workItem from="1548105110056" duration="6549000" />
-      <workItem from="1548450635026" duration="275000" />
+      <workItem from="1548450635026" duration="5398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86659000" />
+    <option name="totallyTimeSpent" value="91782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="946" y="23" width="1294" height="1337" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4958084" visible="true" weight="0.22152396" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4958084" visible="true" weight="0.22152396" />
       <window_info id="Structure" order="1" sideWeight="0.50419164" side_tool="true" weight="0.24528302" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,9 +442,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33012047" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" order="11" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32931727" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -443,69 +475,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.component.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-typescript/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-JavaScript/05-Callbacks/02-fs/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/menu/menu.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -590,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/interfaces/raza.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -608,27 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -683,6 +624,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -700,51 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/models/Raza.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="2" selection-start-column="2" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -768,6 +671,157 @@
           <caret line="32" column="54" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/raza-rest.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-login-component/ruta-login-component.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/ruta-login-component/ruta-login-component.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-JavaScript/04 back-end/video-backend/api/controllers/RazaController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/usuario-service.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/servicios/rest/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-productos/gestion-productos.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/Componentes/formulario-raza/formulario-raza.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/rutas/gestion-usuarios/gestion-usuarios.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="n#table#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-angular/videos/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>

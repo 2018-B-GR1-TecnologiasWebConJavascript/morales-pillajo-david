@@ -33,8 +33,10 @@ module.exports = {
 
     console.log(usuarioLoggeado)
 
-    if(usuarioLoggeado){
-      return res.ok(usuarioLoggeado);
+    const error= usuarioLoggeado.length===0
+
+    if(!error){
+      return res.ok(usuarioLoggeado[0]);
     }else {
       return res.badRequest({mensaje:'Usuario Invalido'});
     }

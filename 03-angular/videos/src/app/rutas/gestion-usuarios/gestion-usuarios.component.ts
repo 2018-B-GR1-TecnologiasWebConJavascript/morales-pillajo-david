@@ -12,6 +12,15 @@ export class GestionUsuariosComponent implements OnInit {
 
   usuarios=[];
 
+
+  columnas=[
+    {field: 'id', header: 'Identificador'},
+    {field: 'nombre', header:'Nombre'},
+    {field:'username', header:'Usuario'},
+    {field:'password',header:'pasword'},
+    {field:'id', header:'Identificador'}
+  ]
+
   //inyeccion de dependencias
   constructor(
     private readonly _razaRestService: RazaRestService

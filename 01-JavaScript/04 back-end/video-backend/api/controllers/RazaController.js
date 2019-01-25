@@ -21,6 +21,23 @@ module.exports = {
     });
 
     return res.ok(nombreCac);
+  },
+
+  login: async (req, res)=>{
+    const parametros= req.allParams();
+
+    var usuarioLoggeado= await Raza.find({
+      username: parametros.username,
+      password: parametros.password,
+    });
+
+    console.log(usuarioLoggeado)
+
+    if(usuarioLoggeado){
+      return res.ok(usuarioLoggeado);
+    }else {
+      return res.badRequest({mensaje:'Usuario Invalido'});
+    }
   }
 };
 

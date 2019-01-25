@@ -22,15 +22,15 @@ export class CrearRazaComponent implements OnInit {
   }
 
 
-  crearRaza(formulario: NgForm){
-    console.log(formulario)
+  crearRaza(razaObjeto){
+
 
     //validar
 
-    if(this.nombreContieneA(this.raza.nombre.toString())){
+    //if(this.nombreContieneA(razaObjeto.nombre.toString())){
 
       const crearRaza$ = this._razaRestService
-        .create(this.raza.nombre)
+        .create(razaObjeto.nombre, razaObjeto.username, razaObjeto.password)
 
       crearRaza$
         .subscribe(
@@ -41,13 +41,10 @@ export class CrearRazaComponent implements OnInit {
           (error)=>{
             console.error('Error: ',error)
           }
-        )
-    }else {
-      alert('ERROR, no contiene una letra a')
-    }
-
-
-
+        );
+    //}else {
+      //alert('ERROR, no contiene una letra a')
+    //}
 
   }
 

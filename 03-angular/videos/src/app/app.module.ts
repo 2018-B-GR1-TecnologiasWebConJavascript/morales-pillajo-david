@@ -18,6 +18,7 @@ import { CrearRazaComponent } from './rutas/crear-raza/crear-raza.component';
 import {FormsModule} from "@angular/forms";
 import { ActualizarRazaComponent } from './rutas/actualizar-raza/actualizar-raza.component';
 import { ImagenPeliculaComponent } from './Componentes/imagen-pelicula/imagen-pelicula.component';
+import { FormularioRazaComponent } from './Componentes/formulario-raza/formulario-raza.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { ImagenPeliculaComponent } from './Componentes/imagen-pelicula/imagen-pe
     VerDetalleUsuarioComponent,
     CrearRazaComponent,
     ActualizarRazaComponent,
-    ImagenPeliculaComponent
+    ImagenPeliculaComponent,
+    FormularioRazaComponent
   ],
   imports: [
     BrowserModule,

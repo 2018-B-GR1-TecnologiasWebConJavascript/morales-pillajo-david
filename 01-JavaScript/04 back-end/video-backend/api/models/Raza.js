@@ -17,6 +17,16 @@ module.exports = {
     mascotas:{
       collection:'Mascotas',//model hijo
       via:'idRaza'//nombre del campo
+    },
+
+    username:{
+      type: 'string',
+      required: true
+    },
+
+    password:{
+      type:'string',
+      required:true
     }
   },
 
